@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and motivated Software Engineer 👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeondam88" alt="yeondam88" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yeondampark.com](https://yeondampark.com)
+- 👨‍💻 All of my projects are available at [https://lloydpark.dev](https://lloydpark.dev)
 
 - 📫 How to reach me **lloyd.park88@gmail.com**
 
